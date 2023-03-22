@@ -9,12 +9,12 @@ Task is to analyse on what factors the price of a used cars varies
 And ignore the irrelevant feature's
 
 Actions involved:
-Data cleaning 
-Data manipulation
-univariate analysis
-bi-variate analysis
-normalization and scaling
-feature engineering 
-model training 
-model testing 
-Predicting the price 
+Data cleaning,
+Data manipulation,
+univariate analysis,
+bi-variate analysis,
+normalization and scaling,
+feature engineering,
+model training,
+model testing,
+Predicting the price.
